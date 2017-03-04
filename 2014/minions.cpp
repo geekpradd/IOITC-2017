@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// Solved
+// Solved 100/100
 
 signed main(){
 	int t;

@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// The Scientist... 
+
+// This is naive O(n^2). 
+// Other file has O(NlogN) segtree approach
+
 signed main(){
 	int n, m, q;
 	cin >> n >> m >> q;
