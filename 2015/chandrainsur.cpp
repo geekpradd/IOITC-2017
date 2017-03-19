@@ -10,7 +10,7 @@ ii *tree;
 // Last time study for boards..
 // Hope not to screw up IOITC!
 
-// Complexity: O(Q log N)
+// Complexity: O((M+Q) log N)
 int init(int i, int l, int r){
 	tree[i].first = 0;
 	
