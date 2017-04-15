@@ -1,5 +1,9 @@
+# Ignore all
 *
-!*.cpp
-!.gitignore
-!*.c
-!Makefile
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+*.txt
